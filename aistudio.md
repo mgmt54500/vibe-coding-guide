@@ -131,3 +131,30 @@ Return to Google AI Studio.
 5. Enter a value for **New repository description**
 6. Choose Private or Public for your repository visibility
 7. Click **Create GitHub repository**
+
+## Cleaning Up
+
+Once your assessment has been graded, you are welcome to "clean things up" and remove your profile from the web. Here are the steps to do so.
+
+### Clean Up Step 1: Removing Your Portfolio from the Web
+
+1. [Go to Google Cloud Run](https://console.cloud.google.com/run)
+2. Click the **Services** tab in the left-hand menu
+3. Check the box next to any services you want to delete
+4. Click the **Delete** button at the top of the screen
+5. Confirm your deletion(s)
+
+### Clean Up Step 2: Breaking the Connection Between AI Studio and GitHub
+
+(You can always reestablish this connection later if you choose to.)
+
+1. [Go to your GitHub Settings](https://github.com/settings/profile)
+    * You can also get there by going to GitHub, clicking your profile pic in the top right, and choosing **Settings**
+2. Scroll down to **Applications** and select it
+3. From the *Installed GitHub Apps* tab, choose **Configure** next to **Google AI Studio**
+4. Scroll do to the **Danger zone** section
+5. Choose **Uninstall** next to "Uninstall Google AI Studio"
+6. Click **Applications** again in the GitHub Settings menu
+7. Choose the **Authorized GitHub Apps** tab
+8. Click the **Revoke** button next to "Google AI Studio"
+
