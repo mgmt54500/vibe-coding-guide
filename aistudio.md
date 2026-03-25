@@ -152,7 +152,7 @@ Once your assessment has been graded, you are welcome to "clean things up" and r
     * You can also get there by going to GitHub, clicking your profile pic in the top right, and choosing **Settings**
 2. Scroll down to **Applications** and select it
 3. From the *Installed GitHub Apps* tab, choose **Configure** next to **Google AI Studio**
-4. Scroll do to the **Danger zone** section
+4. Scroll down to the **Danger zone** section
 5. Choose **Uninstall** next to "Uninstall Google AI Studio"
 6. Click **Applications** again in the GitHub Settings menu
 7. Choose the **Authorized GitHub Apps** tab
